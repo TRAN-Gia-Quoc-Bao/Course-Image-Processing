@@ -13,4 +13,6 @@ Contents:
 
 4. Lab 4: Mathematical morphology
 
+By: Gia Quoc Bao TRAN 
+
 ![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Image-Processing/blob/master/logoUGA.jpg)
